@@ -38,6 +38,6 @@ In order to fully use the module is need to satisfy the following requirements:
 
 [Gianmaria Perillo](https://www.linkedin.com/in/gianmaria-perillo-b04679138/), University of Naples Parthenope, Science and Techonlogies Departement, Msc Applied Computer Science
 
-[Antonio Liguori], University of Naples Parthenope, Science and Techonlogies Departement, Msc Applied Computer Science
+[Antonio Liguori](https://www.researchgate.net/profile/Antonio_Liguori2), University of Naples Parthenope, Science and Techonlogies Departement, Msc Applied Computer Science
 
 For any kind of problem, questions, ideas or suggestions, please don't esitate to contact us.
