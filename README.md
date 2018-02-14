@@ -1,3 +1,5 @@
+# GAE-Bag-of-Word for study affinity
+
 **_GAE-Bag-of-Words_** (GAE-BoW) is a Natural Languange Processing (NLP) model developed during an hackathon project that took place in Salerno (Naples-Italy). The challenge concerned the development of an hybrid mobile application to lead young students in finding their training and professional paths, promoting innovative ways that link the academic and the business world. I and my colleagues developed in 24h a prototype mobile application, that based on a Machine Learning technique would’ve helped new students to decide their own study affinity area. In practice, we firstly invited the students to fill up a survey, in which we presented different questions regarding: topics of study, hobby, types of books, etc. Secondly, we adopted a NLP model (BoW) to process the input data (train set) and then we trained a ML model able to list several disciplines for which a studen is most prone to. The ML model is learned on the basis of about 1,000 surveys, submitted by students of different ares of study. <br>
 We have won the first prize, which then has provided the complete development of the mobile application.
 
