@@ -16,7 +16,7 @@ In order to fully use the module is need to satisfy the following requirements:
 - Pillow==3.4.2
 - (Facoltative): App Engine Flexible Environment
 - (Facoltative): Flask==0.11.1
-- (Facoltative): gunicorn==19.6.0
+- (Facoltative): Gunicorn==19.6.0
 
 # Usage
 
@@ -39,6 +39,3 @@ In order to fully use the module is need to satisfy the following requirements:
 [Gianmaria Perillo](https://www.linkedin.com/in/gianmaria-perillo-b04679138/), University of Naples Parthenope, Science and Techonlogies Departement, Msc Applied Computer Science
 
 For any kind of problem, questions, ideas or suggestions, please don't esitate to contact us.
-
-
-
