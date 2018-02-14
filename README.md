@@ -22,7 +22,7 @@ In order to fully use the module is need to satisfy the following requirements:
 
 1. `git clone https://github.com/DavideNardone/GAE-Bag-of-Words.git` <br>
 
-2. `unzip GAE-Bag-of-Words.py`
+2. `unzip GAE-Bag-of-Words-master.py`
 
 3. Run `python main.py` <br>
 
